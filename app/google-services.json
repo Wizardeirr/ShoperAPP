@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1099106073784",
+    "project_id": "shoperapp-5ee2e",
+    "storage_bucket": "shoperapp-5ee2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099106073784:android:72a490a60815c51bb4484d",
+        "android_client_info": {
+          "package_name": "com.volkankelleci.shoperapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099106073784-gdg71ti0fq80cduph02i3bju088ufl0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkG6qs_ElleNKPVrlt1_DKCbMjWXcedAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099106073784-gdg71ti0fq80cduph02i3bju088ufl0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
